@@ -1,0 +1,41 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Sparroh"
+name = "CyclerRework"
+description = "Adds Heat Cycler — a reworked Cycler SMG with infinite ammo and a heat/overheat system instead of magazines."
+websiteUrl = "https://github.com/Little-Sparroh/CyclerRework"
+containsNsfwContent = false
+
+[package.dependencies]
+BepInEx-BepInExPack_Mycopunk = "5.4.2403"
+
+[build]
+icon = "icon.png"
+readme = "README.md"
+outdir = "build"
+
+[[build.copy]]
+source = "bin/Release/netstandard2.1/CyclerRework.dll"
+target = "BepInEx/plugins/CyclerRework.dll"
+
+[[build.copy]]
+source = "ICONS"
+target = "BepInEx/plugins/ICONS"
+
+[[build.copy]]
+source = "CHANGELOG.md"
+target = "CHANGELOG.md"
+
+
+[[build.copy]]
+source = "LICENSE"
+target = "LICENSE"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "mycopunk" ]
+
+[publish.categories]
+mycopunk = [ "mods" ]
