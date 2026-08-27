@@ -1,0 +1,36 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Sparroh"
+name = "PlasmaBlaster"
+description = "Plasma Blaster — low-RPM full-auto plasma primary. Bolts apply Decay. Phase 1 baseline (no upgrades yet)."
+websiteUrl = "https://github.com/Little-Sparroh/PlasmaBlaster"
+containsNsfwContent = false
+
+[package.dependencies]
+BepInEx-BepInExPack_Mycopunk = "5.4.2403"
+
+[build]
+icon = "icon.png"
+readme = "README.md"
+outdir = "build"
+
+[[build.copy]]
+source = "bin/Release/netstandard2.1/PlasmaBlaster.dll"
+target = "BepInEx/plugins/PlasmaBlaster.dll"
+
+[[build.copy]]
+source = "CHANGELOG.md"
+target = "CHANGELOG.md"
+
+[[build.copy]]
+source = "LICENSE"
+target = "LICENSE"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "mycopunk" ]
+
+[publish.categories]
+mycopunk = [ "mods" ]
