@@ -1,0 +1,36 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Sparroh"
+name = "CausticFlask"
+description = "Acid-element grenade. Stock throw is a clean corrosive boom. Upgrades unlock melting puddles, vacuum collapse, timed armor plating, and heavy cargo — without cooldown taxes."
+websiteUrl = "https://github.com/Little-Sparroh/CausticFlask"
+containsNsfwContent = false
+
+[package.dependencies]
+BepInEx-BepInExPack_Mycopunk = "5.4.2403"
+
+[build]
+icon = "icon.png"
+readme = "README.md"
+outdir = "build"
+
+[[build.copy]]
+source = "bin/Release/netstandard2.1/CausticFlask.dll"
+target = "BepInEx/plugins/CausticFlask.dll"
+
+[[build.copy]]
+source = "CHANGELOG.md"
+target = "CHANGELOG.md"
+
+[[build.copy]]
+source = "LICENSE"
+target = "LICENSE"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "mycopunk" ]
+
+[publish.categories]
+mycopunk = [ "mods" ]
