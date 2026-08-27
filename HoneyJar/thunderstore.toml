@@ -1,0 +1,36 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Sparroh"
+name = "HoneyJar"
+description = "Bee-element throwable. Bursts into a weak swarm cloud. Upgrades (later) grow hives, cloaks, and nectar nebulae."
+websiteUrl = "https://github.com/Little-Sparroh/HoneyJar"
+containsNsfwContent = false
+
+[package.dependencies]
+BepInEx-BepInExPack_Mycopunk = "5.4.2403"
+
+[build]
+icon = "icon.png"
+readme = "README.md"
+outdir = "build"
+
+[[build.copy]]
+source = "bin/Release/netstandard2.1/HoneyJar.dll"
+target = "BepInEx/plugins/HoneyJar.dll"
+
+[[build.copy]]
+source = "CHANGELOG.md"
+target = "CHANGELOG.md"
+
+[[build.copy]]
+source = "LICENSE"
+target = "LICENSE"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "mycopunk" ]
+
+[publish.categories]
+mycopunk = [ "mods", "client" ]
