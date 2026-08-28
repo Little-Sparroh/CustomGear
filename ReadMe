@@ -1,0 +1,19 @@
+So the design docs within each weapon are not exactly super accurate and more just ideas to pull from.
+The ai makes super flowery language out of what i state, and in some cases ive also given it more control over the content of the design because i had no ideas.
+Now the current designs have hard dependencies with upgrades, and im not a big fan of that.
+I would much more prefer soft or no depenedencies at all on other upgrades, rather than having many.
+In one case being the Pesticide upgrade, rather than making new upgrades to support it, make its stats able to be modified by existing upgrades.
+
+Rifle:
+- Boarding Trident (Trident)
+Shotgun:
+- Aussie Special (Jackrabbit, Double Barrel Mechanic)
+Pistol:
+- Bravura (Style Mechanic)
+Submachine Gun:
+- Heat Cycler (Cycler, Heat Mechanic) 
+Machine Gun:
+- Chaingun (Spinup Mechanic)
+Launcher:
+- Cavity Scrapworks (Plate Launcher)
+Special:
