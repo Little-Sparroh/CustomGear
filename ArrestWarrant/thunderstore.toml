@@ -1,0 +1,38 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Sparroh"
+name = "ArrestWarrant"
+description = "Arrest Warrant — SAXON short-range acid authorization heavy. Reload notarizes a damage warrant on your other weapons. Flash the badge, swap out, finish the arrest."
+websiteUrl = "https://github.com/Little-Sparroh/ArrestWarrant"
+containsNsfwContent = false
+
+[package.dependencies]
+BepInEx-BepInExPack_Mycopunk = "5.4.2403"
+# Optional: quieter heavy UI / ScrollArea guard when many heavies unlocked.
+Sparroh-HeavySelectionExpansion = "1.0.0"
+
+[build]
+icon = "icon.png"
+readme = "README.md"
+outdir = "build"
+
+[[build.copy]]
+source = "bin/Release/netstandard2.1/ArrestWarrant.dll"
+target = "BepInEx/plugins/ArrestWarrant.dll"
+
+[[build.copy]]
+source = "CHANGELOG.md"
+target = "CHANGELOG.md"
+
+[[build.copy]]
+source = "LICENSE"
+target = "LICENSE"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "mycopunk" ]
+
+[publish.categories]
+mycopunk = [ "mods" ]
