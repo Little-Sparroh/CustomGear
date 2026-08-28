@@ -5,15 +5,51 @@ I would much more prefer soft or no depenedencies at all on other upgrades, rath
 In one case being the Pesticide upgrade, rather than making new upgrades to support it, make its stats able to be modified by existing upgrades.
 
 Rifle:
-- Boarding Trident (Trident)
+- Boarding Trident (Trident, Flipped Rotation)
+- Marksman Laser Rifle (DMLR, Laser is RMB)
+- Needle Carbine (Supercombine DoT Mechanic)
+- Plasma Blaster (Multi-Hit Laser Burst Mechanic)
+- Anti-Material Rifle (Sniper with Tube Reload Mechanic)
 Shotgun:
 - Aussie Special (Jackrabbit, Double Barrel Mechanic)
+- Arrest Warrant (Street Sweeper, Swap Buff Mechanic)
 Pistol:
 - Bravura (Style Mechanic)
+- Hivemind (Swarm Launcher)
+- Junk Flinger (Lead Flinger, Chamber Mechanic)
+- Overdriver (Accelerator, Grenade Launcher Mechanic)
 Submachine Gun:
-- Heat Cycler (Cycler, Heat Mechanic) 
+- Heat Cycler (Cycler, Heat Mechanic)
+- Helminth Receiver (Health as Ammo Mechanic)
 Machine Gun:
 - Chaingun (Spinup Mechanic)
+- Siege Cannon (Gunship Cannon, Rebalanced for Slower RoF)
 Launcher:
 - Cavity Scrapworks (Plate Launcher)
+- Spillway (Globbler, unsure on rebalance yet, needs it though)
+- Final Judgement (Last Argument)
+- Manifold Rocket (Rocket Jump Mechanic)
 Special:
+- Heaven Piercer (Bow)
+- Rapture's Chosen (Shocklance, Auger is RMB)
+- Hard-Light Constructor (unsure on mechanic yet)
+- Whiteout (Cryothrower Mechanic)
+- MS-7 Caduceus (Mercy Staff Mechanic)
+- Thermal Solstace (Laser Cannon)
+- Zephyr (Ragdoll Mechanic)
+Grenade:
+- Caustic Flask (Acid Grenade, Radial Flood Mechanic)
+- FriendinaBox (Proximity Mine)
+- Honey Jar (Bee Grenade, Semtex with Bee Swarm Mechanic)
+- Photon Disc (UNCHANGED)
+- Rime Charge (Cryo Grenade, unsure yet just here until release)
+- Splash Canister (Wet Grenade, Sens Grenade from R6 Siege)
+- Thermite (Fire Grenade, Molotov Mechanic)
+- Voltaic Cell (Shock Grenade, Storm Cloud Mechanic)
+Melee:
+- Knuckles (reworked default melee with Block Mechanic)
+- Hooklash (Whip, with Grapple Hook Mechanic)
+- Phalanx Impaler (Spear and Shield, with Spear throw Mechanic)
+- Saxonite Wrench (Hammer, with Halo's Grav Hammer Mechanic)
+- Stalker's Blade (Knife, with Throwing Knife Mechanic, and De-Aggro Mechanic)
+- Blood Carver (Carver, Blood on-hit, Blood Consumption Mechanic)
