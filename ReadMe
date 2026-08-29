@@ -1,3 +1,5 @@
+*note* i did make final changes to each of the weapons that was outside of the ai written design docs that might make the current form not align with the design doc, but felt way better in my hands.
+
 So the design docs within each weapon are not exactly super accurate and more just ideas to pull from.
 The ai makes super flowery language out of what i state, and in some cases ive also given it more control over the content of the design because i had no ideas.
 Now the current designs have hard dependencies with upgrades, and im not a big fan of that.
