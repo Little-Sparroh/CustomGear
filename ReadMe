@@ -7,9 +7,9 @@ In one case being the Pesticide upgrade, rather than making new upgrades to supp
 Rifle:
 - Boarding Trident (Trident, Flipped Rotation)
 - Marksman Laser Rifle (DMLR, Laser is RMB)
-- Needle Carbine (Supercombine DoT Mechanic, [sorry im too lazy to fix this design right now so im sending it broken and half baked])
+- Needle Carbine (Supercombine DoT Mechanic) [sorry im too lazy to fix this design right now so im sending it broken and half baked]
 - Plasma Blaster (Multi-Hit Laser Burst Mechanic)
-- Anti-Material Rifle (Sniper with Tube Reload Mechanic)
+- Anti-Material Rifle (Sniper with Tube Reload Mechanic) [needs crosshair]
 Shotgun:
 - Aussie Special (Jackrabbit, Double Barrel Mechanic)
 - Arrest Warrant (Street Sweeper, Swap Buff Mechanic)
@@ -19,7 +19,7 @@ Pistol:
 - Junk Flinger (Lead Flinger, Chamber Mechanic)
 - Overdriver (Accelerator, Grenade Launcher Mechanic)
 Submachine Gun:
-- Heat Cycler (Cycler, Heat Mechanic)
+- Heat Cycler (Cycler, Heat Mechanic) [needs crosshair]
 - Helminth Receiver (Health as Ammo Mechanic)
 Machine Gun:
 - Chaingun (Spinup Mechanic)
@@ -30,7 +30,7 @@ Launcher:
 - Final Judgement (Last Argument)
 - Manifold Rocket (Rocket Jump Mechanic)
 Special:
-- Heaven Piercer (Bow)
+- Heaven Piercer (Bow) [needs crosshair]
 - Rapture's Chosen (Shocklance, Auger is RMB)
 - Hard-Light Constructor (unsure on mechanic yet)
 - Whiteout (Cryothrower Mechanic)
@@ -44,7 +44,7 @@ Grenade:
 - Photon Disc (UNCHANGED GENUINELY PEAK DESIGN, could probably tweak minor details but overhaul not needed)
 - Rime Charge (Cryo Grenade, sorry i cant show until release because of insider knowledge)
 - Splash Canister (Wet Grenade, Sens Grenade from R6 Siege)
-- Thermite (Fire Grenade, Molotov Mechanic)
+- Thermite (Fire Grenade, Molotov Mechanic) [im sorry i just didnt do a good job on this one, ill do a new concept later]
 - Voltaic Cell (Shock Grenade, Storm Cloud Mechanic)
 Melee:
 - Knuckles (reworked default melee with Block Mechanic)
