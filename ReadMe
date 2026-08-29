@@ -53,3 +53,11 @@ Melee:
 - Saxonite Wrench (Hammer, with Halo's Grav Hammer Mechanic)
 - Stalker's Blade (Knife, with Throwing Knife Mechanic, and De-Aggro Mechanic)
 - Blood Carver (Carver, Blood on-hit, Blood Consumption Mechanic)
+
+So i didnt sort out the heavy weapons in the list but i dont think its too important at the moment.
+You will notice melee weapons, i wanted to expand melee functionality and give it its own weapon slot and upgrades rather than riding on other weapons to make melee viable.
+The upgrades within the design doc are once again for all weapons, completely in theory and should probably be reworked to not be as hard synergy coded.
+I think the general direction of the upgrades are probably not bad ideas as ive signed off on them and i believe in their promise.
+That being said any strange language used within them that dont sound like how it should function in game is entirely the ai's lack of understanding of the topic when creating the drafts.
+This will also show in the few implemented upgrades that do exist, even then the ai still has no idea, for example i cannot for the life of me get it to stop thinking hitForce is knockback, it refuses to understand that is Explosion Size.
+Also all of this being said, while ive included the melee weapon folders, they are barely implemented to any degree, so im sorry if they dont REALLY work.
