@@ -63,3 +63,6 @@ I think the general direction of the upgrades are probably not bad ideas as ive 
 That being said any strange language used within them that dont sound like how it should function in game is entirely the ai's lack of understanding of the topic when creating the drafts.
 This will also show in the few implemented upgrades that do exist, even then the ai still has no idea, for example i cannot for the life of me get it to stop thinking hitForce is knockback, it refuses to understand that is Explosion Size.
 Also all of this being said, while ive included the melee weapon folders, they are barely implemented to any degree, so im sorry if they dont REALLY work.
+
+*edit*
+some of the documents have concrete upgrades slated, this isnt necessarily an issue, but one philosophy i forgot to throw in is that helper upgrades should be absolutely minimal and if the upgrade is exotic then it should likely be rolled into the turbocharge instead.
